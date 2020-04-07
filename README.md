@@ -1,2 +1,2 @@
-# ELSE_Conference_2020_Use_Case_Enhancing_Colposcopy_Through_Deep_Learning
+# ELSE Conference 2020 Use Case: Enhancing Colposcopy Through Deep Learning
 ELSE Conference 2020 Use Case: Enhancing Colposcopy Through Deep Learning
