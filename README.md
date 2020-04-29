@@ -1,6 +1,6 @@
 # ELSE Conference 2020 Use Case: Enhancing Colposcopy Through Deep Learning
 
-This use case has been presented in 16th International Scientific Conference in eLearning and Software for Education (also known as eLSE) in Bucharest, Romania, between the 30th of April and the 1st of May, 2020.
+This use case has been presented in the 16th International Scientific Conference in eLearning and Software for Education (also known as eLSE) in Bucharest, Romania, between the 30th of April and the 1st of May, 2020.
 
 The link to the conference:
 https://www.elseconference.eu/
